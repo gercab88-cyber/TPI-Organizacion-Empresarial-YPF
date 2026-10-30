@@ -61,3 +61,14 @@ Se emplean ramas de trabajo, commits descriptivos y Pull Requests para organizar
 El proyecto se encuentra en la etapa de documentación y organización correspondiente a la cuarta entrega del Trabajo Práctico Integrador.
 
 El sistema informático constituye una propuesta académica y no una aplicación implementada.
+
+## 7. Validación del proceso BPMN
+
+El proceso de consulta de promociones contempla dos escenarios:
+
+- **Promoción disponible:** el sistema muestra la promoción y sus condiciones para que el personal informe al cliente.
+- **Promoción no disponible:** el sistema informa que la promoción consultada no se encuentra disponible.
+
+En ambos casos, el personal comunica el resultado al cliente, quien recibe la información y finaliza la consulta.
+
+Esta descripción se incorpora para facilitar la revisión del diagrama BPMN 2.0 y comprobar la coherencia entre las actividades, las decisiones y los flujos de comunicación.
